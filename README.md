@@ -1,11 +1,5 @@
 Cartify - A Simple Shopping Search App
 
-App Screenshot:
-
-Home screen where a user can search for various products.
-
-<img width="271" height="542" alt="Screenshot 2025-12-02 at 4 16 10 PM" src="https://github.com/user-attachments/assets/b4236818-99d1-43f0-b07c-32e4d5da5507" />
-
 
 About This App
 
@@ -47,8 +41,9 @@ Sorting and filtering, such as by price, category, or popularity.
 - Save favorite products locally.
 
 - Implement a shopping cart to simulate purchases. - Polish the UI with animations and more advanced styling.
--
-- --- Screenshots - <img width="271" height="542" alt="Screenshot 2025-12-02 at 4 16 10 PM" src="https://github.com/user-attachments/assets/57422bc4-3907-4b23-a9d2-ef52b8a6daa3" />
+
+- --- Screenshots -
+-  <img width="271" height="542" alt="Screenshot 2025-12-02 at 4 16 10 PM" src="https://github.com/user-attachments/assets/57422bc4-3907-4b23-a9d2-ef52b8a6daa3" />
  – Main search screen - <img width="254" height="534" alt="Screenshot 2025-12-02 at 4 35 16 PM" src="https://github.com/user-attachments/assets/e62446ab-25a3-41d0-8aed-ed6d232a1a84" />
  – Search results - <img width="255" height="532" alt="Screenshot 2025-12-02 at 4 35 32 PM" src="https://github.com/user-attachments/assets/97000dde-097e-438a-8286-895d396522d0" />
  – Product detail page 
